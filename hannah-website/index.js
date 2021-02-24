@@ -90,8 +90,5 @@ function expandfour() {
     else {
         four.innerHTML = "[ + ]";
         fourDesc.style.display = "none";
-
-
     }
-    
 }
